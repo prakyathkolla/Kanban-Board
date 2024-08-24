@@ -1,6 +1,6 @@
 <h1 align="center">Kanban board</h1>
 
-👉 [View Live](https://kanbann-board.netlify.app/)
+👉 [View Live](https://kanban-board-prakyath.vercel.app/)
 
 ![image](https://user-images.githubusercontent.com/47911791/173187178-e9d32eba-5deb-4de7-bab0-c4f7112258b4.png)
 
@@ -66,4 +66,4 @@ Licensed under the MIT license.
 
 ---
 
-👉 [View Live](https://kanbann-board.netlify.app/)
+👉 [View Live](https://kanban-board-prakyath.vercel.app/)
