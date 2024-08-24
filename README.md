@@ -7,11 +7,6 @@
 ## Dark Mode
 ![image](https://user-images.githubusercontent.com/47911791/173188545-ada3666e-b1c5-4842-8a1f-825c586130bb.png)
 
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0997d88e-10c7-4b3e-a4ad-992aaf744206/deploy-status)](https://kanbann-board.netlify.app/)
-![GitHub](https://img.shields.io/github/license/aman162000/kanban-board?label=license)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-
 ## Features ✨
 
 - Drag & drop tasks
